@@ -1,0 +1,11 @@
+[
+  {"name": "Capio AB", "status": "connected", "type": "other"},
+  {"name": "Folktandvården Gävleborg AB", "status": "started", "type": "other"},
+  {"name": "Hälsa Hemma Sverige AB", "status": "started", "type": "other"},
+  {"name": "Höglandsförbundet", "status": "connected", "type": "other"},
+  {"name": "Introcentrum AB", "status": "qa", "type": "other"},
+  {"name": "Kommunalförbundet ITSAM", "status": "connected", "type": "other"},
+  {"name": "Kunskapsförbundet Väst", "status": "started", "type": "other"},
+  {"name": "Sveriges kommuner och regioner", "status": "connected", "type": "other"},
+  {"name": "Unilabs AB", "status": "started", "type": "other"}
+]

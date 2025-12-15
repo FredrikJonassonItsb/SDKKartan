@@ -1,0 +1,21 @@
+[
+  {"name": "Region Dalarna", "status": "started"},
+  {"name": "Region Gotland", "status": "connected"},
+  {"name": "Region Gävleborg", "status": "connected"},
+  {"name": "Region Halland", "status": "connected"},
+  {"name": "Region Jämtland Härjedalen", "status": "connected"},
+  {"name": "Region Jönköping", "status": "connected"},
+  {"name": "Region Kalmar", "status": "connected"},
+  {"name": "Region Norrbotten", "status": "started"},
+  {"name": "Region Skåne", "status": "started"},
+  {"name": "Region Stockholm", "status": "connected"},
+  {"name": "Region Sörmland", "status": "connected"},
+  {"name": "Region Uppsala", "status": "connected"},
+  {"name": "Region Värmland", "status": "connected"},
+  {"name": "Region Västerbotten", "status": "connected"},
+  {"name": "Region Västernorrland", "status": "qa"},
+  {"name": "Region Västmanland", "status": "connected"},
+  {"name": "Region Örebro län", "status": "connected"},
+  {"name": "Region Östergötland", "status": "connected"},
+  {"name": "Västra Götalandsregionen", "status": "connected"}
+]

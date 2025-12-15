@@ -1,0 +1,10 @@
+[
+  {"name": "Arbetsförmedlingen", "status": "connected", "type": "authority"},
+  {"name": "Försäkringskassan", "status": "connected", "type": "authority"},
+  {"name": "Inspektionen för vård och omsorg", "status": "connected", "type": "authority"},
+  {"name": "Polismyndigheten", "status": "connected", "type": "authority"},
+  {"name": "Rättsmedicinalverket", "status": "started", "type": "authority"},
+  {"name": "Skolverket", "status": "connected", "type": "authority"},
+  {"name": "Socialstyrelsen", "status": "connected", "type": "authority"},
+  {"name": "Statens Institutionsstyrelse", "status": "connected", "type": "authority"}
+]
